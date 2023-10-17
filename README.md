@@ -1,2 +1,2 @@
 # Wordle
-# A very fun game! I hope you enjoy!
+A very fun game! I hope you enjoy!
